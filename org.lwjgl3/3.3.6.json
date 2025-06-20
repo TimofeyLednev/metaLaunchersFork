@@ -1,0 +1,131 @@
+{
+  "formatVersion": 1,
+  "libraries": [
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "e2a4de660ba8885851c51943c39ef9a3030b9812",
+          "size": 130034,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-glfw/lwjgl-glfw.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-glfw:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "6f4714bb497ac7949d0e77f13a4383a942294967",
+          "size": 100010,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl/lwjgl-natives-haiku.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-natives-haiku:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "e2a96e50fe734b2dd41122c0877a354f0fda2e0b",
+          "size": 102462,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-openal/lwjgl-openal.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-openal:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "05793c2569a009a21ac20803f216aa29969ad15d",
+          "size": 73796,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-opengl/lwjgl-opengl-natives-haiku.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-opengl-natives-haiku:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "af3fd78017d43bee0cb350a25f6e32f1d5010292",
+          "size": 930868,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-opengl/lwjgl-opengl.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-opengl:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "5871b2dc839922d367db9d1372d6edea10c6b5a9",
+          "size": 217971,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-stb/lwjgl-stb-natives-haiku.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-stb-natives-haiku:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "3b0ce420e3d8e1235f86bf1eff9387f7a1ba863f",
+          "size": 114138,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-stb/lwjgl-stb.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-stb:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "7ea256ce4bced27d759474202f6df34158f04e7c",
+          "size": 42647,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-tinyfd/lwjgl-tinyfd-natives-haiku.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-tinyfd-natives-haiku:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "1a433beeff0220d1ccb8b1f0aeaf76ea22d5a593",
+          "size": 7688,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-tinyfd/lwjgl-tinyfd.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-tinyfd:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "e83a8262e1b0165c5b1156a42e14eeaf89097525",
+          "size": 851481,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl/lwjgl.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "05793c2569a009a21ac20803f216aa29969ad15d",
+          "size": 73796,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-opengl/lwjgl-opengl-natives-haiku.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-opengl-natives-haiku:3.3.6-haiku"
+    },
+    {
+      "downloads": {
+        "artifact": {
+          "sha1": "6f4714bb497ac7949d0e77f13a4383a942294967",
+          "size": 100010,
+          "url": "https://haikuware.ru/files/lwjgl3/lwjgl-3.3.6-haiku-x64/lwjgl-natives/lwjgl-natives-haiku.jar"
+        }
+      },
+      "name": "org.lwjgl:lwjgl-natives-haiku:3.3.6-haiku"
+    }
+  ],
+  "name": "LWJGL 3",
+  "releaseTime": "2023-09-07T12:42:32+00:00",
+  "type": "release",
+  "uid": "org.lwjgl3",
+  "version": "3.3.6-haiku",
+  "volatile": true
+}

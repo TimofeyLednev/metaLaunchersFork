@@ -1,0 +1,79 @@
+{
+    "formatVersion": 1,
+    "name": "LWJGL 2",
+    "uid": "org.lwjgl",
+    "versions": [
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": true,
+            "releaseTime": "2017-04-26T13:48:23+00:00",
+            "sha256": "9909a89a49cb7d99b4c8e09a03581dd723e7d047c38e2919b721be45519a1c49",
+            "type": "release",
+            "version": "2.9.4-nightly-20150209",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2015-01-30T11:58:24+00:00",
+            "sha256": "6defa546d84efce8b530779a2571d4f7fd44622c07df6df779b2c4951d44a453",
+            "type": "release",
+            "version": "2.9.3",
+            "volatile": true
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2014-09-02T08:24:35+00:00",
+            "sha256": "5625b53aaf685d277bd29502d8d71cc037c5ef1ddd837e475a1d3e7cbc89fafa",
+            "type": "release",
+            "version": "2.9.2-nightly-20140822"
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2014-02-06T17:30:42+00:00",
+            "sha256": "c014910f47e1df369fff52518673788bddfbe2dcbc3b6ed82a152c6d36100caf",
+            "type": "release",
+            "version": "2.9.1",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2013-11-21T17:10:33+00:00",
+            "sha256": "6ec2da5c7509582fc21a0e2a786d6cbbc4dd117cfd6de4cbcb922cee212d4f5c",
+            "type": "release",
+            "version": "2.9.1-nightly-20131120",
+            "volatile": true
+        },
+        {
+            "conflicts": [
+                {
+                    "uid": "org.lwjgl3"
+                }
+            ],
+            "recommended": false,
+            "releaseTime": "2013-05-03T09:19:35+00:00",
+            "sha256": "1e8a7a11bcf692bdaf5af617203afde2e332dc499401ff3257e87a95387401e2",
+            "type": "release",
+            "version": "2.9.0",
+            "volatile": true
+        }
+    ]
+}
