@@ -8,4 +8,8 @@ PrismLauncher for Haiku fork MultiMC or PolyMC fork by Bavovna?
 
 
 Page for your MultiMC Fork client Haiku OS:
-https://timofeylednev.github.io/metaLaunchersFork/
+https://timofeylednev.github.io/metaLaunchersFork/v1mmc/
+
+
+For Prism Launcher and PolyMC:
+https://timofeylednev.github.io/metaLaunchersFork/v1/
