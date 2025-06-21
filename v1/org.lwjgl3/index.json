@@ -13,7 +13,7 @@
       "releaseTime": "2025-01-04T00:00:00+00:00",
       "sha256": "8aa342f8fb389a787e03e5d2d7fd7b8f58198f653e039838fe08b2be6d928633",
       "type": "release",
-      "version": "3.3.6-haiku",
+      "version": "3.3.6",
       "volatile": true
     },
     {
