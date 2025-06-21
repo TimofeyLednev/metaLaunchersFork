@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "name": "LWJGL 3",
     "recommended": [
-        "3.3.6"
+        "3.3.6-haiku"
     ],
     "uid": "org.lwjgl3"
 }
