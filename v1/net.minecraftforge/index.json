@@ -5,6 +5,66 @@
     "versions": [
         {
             "recommended": false,
+            "releaseTime": "2025-06-25T19:59:31+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "8bb79c68c9b2f393a8ca39a54969086034044f1df9a49a9bc44e9bdf3a49ef81",
+            "version": "56.0.9"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-06-24T00:12:03+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "3b35c3856a10209daedaa22188a9fa82702e765917198fde0e0ee4e30c3b764b",
+            "version": "56.0.8"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-06-20T21:43:24+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "6ef81f50c192aba3468c6e2a132feea0a894b1544e058e0d37b801a30f4982b7",
+            "version": "56.0.7"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-06-20T21:27:27+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "dc834da9ee73977b04230131dd8caeb275b3e164b2252a916aa8292d4d4963a7",
+            "version": "56.0.6"
+        },
+        {
+            "recommended": false,
+            "releaseTime": "2025-06-20T17:27:30+00:00",
+            "requires": [
+                {
+                    "equals": "1.21.6",
+                    "uid": "net.minecraft"
+                }
+            ],
+            "sha256": "f7ed605a39d65eaf9b19068a00d37dae2f413c22df9b8d3891592bdea9d21498",
+            "version": "56.0.5"
+        },
+        {
+            "recommended": false,
             "releaseTime": "2025-06-20T09:21:17+00:00",
             "requires": [
                 {
